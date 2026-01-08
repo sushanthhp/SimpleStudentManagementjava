@@ -89,4 +89,3 @@ The system includes custom error handling to ensure stability:
 
 ---
 
-**Next Step:** Would you like me to help you create a `.gitignore` file for this project to ensure your compiled `.class` files aren't uploaded to GitHub?
